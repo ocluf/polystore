@@ -63,7 +63,7 @@
 
 	<div class="mx-auto max-w-3xl text-center">
 		<h2 class="text-4xl font-bold tracking-tight text-white md:text-5xl sm:text-4xl">
-			Make Your Website Fun
+			Add Some Spice to Your Site
 		</h2>
 		<p class="mt-6 text-lg leading-8 text-gray-300">
 			A collection of free 3D assets that you can copy paste into your website.
@@ -75,7 +75,7 @@
 		</div>
 	</div>
 	<div class="mx-auto w-fit mt-5">
-		<Button onclick={nextAsset} variant="outline">Next asset</Button>
+		<Button onclick={nextAsset} variant="outline">Next scene</Button>
 	</div>
 </div>
 

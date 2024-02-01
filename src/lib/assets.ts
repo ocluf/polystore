@@ -54,5 +54,11 @@ export const assets: Array<Asset> = [
 		name: 'Vertical Helix',
 		description: 'A vertical colorful helix that spins around can be used at any length',
 		preview_img_path: '/vertical-helix@2-300x200.webp'
+	},
+	{
+		id: '4tgsftmgtpFvOaKO',
+		name: 'Cartoon lightning',
+		description: 'A rotating cartoon lightning bolt',
+		preview_img_path: '/Cartoon-lightning@2-300x200.webp'
 	}
 ];
