@@ -75,7 +75,7 @@
 		</div>
 	</div>
 	<div class="mx-auto w-fit mt-5">
-		<Button onclick={nextAsset} variant="outline">Next scene</Button>
+		<Button onclick={nextAsset}>Next scene</Button>
 	</div>
 </div>
 

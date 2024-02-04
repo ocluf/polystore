@@ -10,7 +10,6 @@
 	const { data } = $props();
 
 	if (browser) {
-		console.log('data', data.id);
 		loadSpline();
 	}
 
@@ -42,7 +41,7 @@
 
 <Dialog.Root>
 	<Dialog.Trigger>
-		<Button variant="outline" class="m-5">Download scene</Button>
+		<Button class="m-5">Download scene</Button>
 	</Dialog.Trigger>
 	<Dialog.Content>
 		<Dialog.Header>
